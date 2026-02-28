@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I am Sa'ad Farooq, a 3rd yr Combinatorics and Optimization student at the University of Waterloo.
+
 
 <!--
 **saadfarooq-alt/saadfarooq-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
