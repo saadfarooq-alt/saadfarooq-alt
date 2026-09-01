@@ -1,1 +1,1 @@
-Hi 👋, I'm Sa'ad Farooq, a 3rd yr Combinatorics and Optimization student at the University of Waterloo.
+Hi 👋, I'm Sa'ad Farooq, a 3rd yr Combinatorics and Optimization student at the University of Waterloo. I am currently working as a Software Engineer for the Commercial Excellence team at Boehringer Ingelheim.
